@@ -20,7 +20,7 @@ I have 14+ years of experience in technology and have led globally distributed s
 
 I hold an M.S. in Computer Science from Missouri University of Science and Technology and an MBA from Indiana University's Kelley School of Business with a focus on Strategy & Leadership.
 
-What I'm interested in
+What I'm interested in: 
 Engineering Leadership
 AI & Agentic AI
 Digital Transformation
