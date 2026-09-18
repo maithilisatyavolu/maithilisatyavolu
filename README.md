@@ -28,3 +28,10 @@ What I'm interested in:
 - Software Architecture
 - Platform Modernization
 - Building high-performing engineering teams
+### 📚 Document-Grounded RAG Assistant
+
+Independent RAG application that answers questions from HOA bylaws,
+provides source citations, translates legal language into plain English,
+and avoids unsupported responses.
+
+https://github.com/maithilisatyavolu/document-grounded-rag-assistant
